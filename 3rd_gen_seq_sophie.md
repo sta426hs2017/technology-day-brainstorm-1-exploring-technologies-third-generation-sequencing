@@ -8,13 +8,13 @@ subsequent amplification of the DNA with predecessing techniques.
 Advantages include longer read lengths, faster run time
 and lower cost, yet challenges remain in accuracy.
 
-###Advantages
+### Advantages
 
 1. Longer reads
 2. Directly detect Epigenetics markers
 3. Portability and sequencing speed
 
-###Challenges
+### Challenges
 
 1. High error rate
 
