@@ -10,19 +10,22 @@ and lower cost, yet challenges remain in accuracy.
 
 ### Advantages
 
-1. Longer reads
-2. Directly detect Epigenetics markers
-3. Portability and sequencing speed
+- Longer reads
+- Directly detect Epigenetics markers
+- Portability and sequencing speed
 
 ### Challenges
 
-1. High error rate
-
+- High error rate
 
 ### Sources
 
-[Wiki](https://en.wikipedia.org/wiki/Third-generation_sequencing)
+[Wikipedia](https://en.wikipedia.org/wiki/Third-generation_sequencing)
 
-[Nature, Third-generation sequencing](https://dx.doi.org/10.1038/nbt0510-426)
+[Link to paper: A window into third-generation sequencing](https://academic.oup.com/hmg/article-lookup/doi/10.1093/hmg/ddq416)
+
+[Link to paper: Third-generation sequencing fireworks at Marco Island](https://dx.doi.org/10.1038/nbt0510-426)
+
+[Link to paper: Third Generation Sequencing Techniques and Applications to Drug Discovery](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3319653/)
 
 [PacBio (SMRT sequencing)](http://www.pacb.com/smrt-science/smrt-sequencing/)
