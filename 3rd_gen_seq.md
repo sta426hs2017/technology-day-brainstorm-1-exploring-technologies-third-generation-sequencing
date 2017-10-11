@@ -6,13 +6,13 @@ Third generation sequencing is a method to determine the order of bases
 of a DNA strand using a single molecule, compared to breakdown and
 subsequent amplification of the DNA with predecessing techniques.
 
-### Advantages
+#### Advantages
 
 - Longer reads
 - Directly detect Epigenetics markers
 - Portability and sequencing speed
 
-### Challenges
+#### Challenges
 
 - High error rate
 
@@ -26,4 +26,3 @@ subsequent amplification of the DNA with predecessing techniques.
 
 [Link to paper: Third Generation Sequencing Techniques and Applications to Drug Discovery](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3319653/)
 
-[PacBio (SMRT sequencing)](http://www.pacb.com/smrt-science/smrt-sequencing/)
