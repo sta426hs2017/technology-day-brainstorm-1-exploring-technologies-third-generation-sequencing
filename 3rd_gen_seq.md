@@ -26,3 +26,5 @@ subsequent amplification of the DNA with predecessing techniques.
 
 [Link to paper: Third Generation Sequencing Techniques and Applications to Drug Discovery](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3319653/)
 
+### Contributors
+Sophie Seidel
